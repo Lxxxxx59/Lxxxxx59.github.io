@@ -27,7 +27,7 @@ footer:
 author: '蓝些'
 nickname: '59'
 bio: '简单快乐'
-avatar: '/assets/img/profile.png'
+avatar: ''
 
 # Search
 search: true
@@ -38,7 +38,7 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus_url: ''
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
